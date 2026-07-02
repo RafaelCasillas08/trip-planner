@@ -1,0 +1,36 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260705-1",
+    "placeId": "palacio-sanssousi",
+    "schedule": "10am a 1pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260705-2",
+    "placeId": "german-museum-of-technology",
+    "schedule": "3pm a 6pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260705-3",
+    "placeId": "iglesia-kaiser-wilhelm",
+    "schedule": "6:30pm a 7:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260705-4",
+    "placeId": "parque-tiergarten",
+    "schedule": "7:15pm a 9pm",
+    "comments": ""
+  }
+]

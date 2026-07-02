@@ -1,0 +1,18 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260708-1",
+    "placeId": "schwerin-castle",
+    "schedule": "10am a 1pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 3pm",
+    "comments": "Comer y conocer lo principal del centro de Schwerin"
+  }
+]

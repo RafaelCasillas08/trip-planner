@@ -1,0 +1,72 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-1",
+    "placeId": "catedral-de-berlin",
+    "schedule": "9:00am a 9:30am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-2",
+    "placeId": "neues-museum",
+    "schedule": "10:00am a 12:00am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-3",
+    "placeId": "german-historical-museum",
+    "schedule": "12:15pm a 2:15pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-4",
+    "placeId": "museo-de-pergamo",
+    "schedule": "3:45pm a 6:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-5",
+    "placeId": "gendarmenmarkt",
+    "schedule": "6:15pm a 7:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-6",
+    "placeId": "checkpoint-charlie",
+    "schedule": "7:30pm a 7:50pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-7",
+    "placeId": "theodor-wolff-park",
+    "schedule": "8:00pm a 8:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-8",
+    "placeId": "memorial-to-the-murdered-jews-of-europe",
+    "schedule": "8:50pm a 9:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-9",
+    "placeId": "puerta-de-brandeburgo",
+    "schedule": "9:25pm a 9:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260704-10",
+    "placeId": "unter-den-linden",
+    "schedule": "10:00pm a 10:30pm",
+    "comments": ""
+  }
+]

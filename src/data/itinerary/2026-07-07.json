@@ -1,0 +1,78 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-1",
+    "placeId": "miniatur-wunderland",
+    "schedule": "9am a 11am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-2",
+    "placeId": "filarmonica-de-elba",
+    "schedule": "11am a 12pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-3",
+    "placeId": "museo-maritimo-internacional-de-hamburgo",
+    "schedule": "12pm a 2pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-4",
+    "placeId": "speicherstadt",
+    "schedule": "3pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-5",
+    "placeId": "calle-deichstrasse",
+    "schedule": "3:30pm a 4pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-6",
+    "placeId": "iglesia-de-san-nicolas-hamburgo",
+    "schedule": "4:00pm a 4:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-16",
+    "placeId": "iglesia-de-san-miguel-hamburgo",
+    "schedule": "4:15pm a 4:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-7",
+    "placeId": "ayuntamiento-de-hamburgo",
+    "schedule": "5pm a 5:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-8",
+    "placeId": "alster-arcade",
+    "schedule": "5:20pm a 5:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-9",
+    "placeId": "barrio-de-st-pauli",
+    "schedule": "6pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260707-10",
+    "placeId": "pearls-table-dance",
+    "schedule": "7pm",
+    "comments": ""
+  }
+]

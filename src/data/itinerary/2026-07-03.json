@@ -1,0 +1,66 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-1",
+    "placeId": "palacio-charlottenburg",
+    "schedule": "10am a 1pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-2",
+    "placeId": "berliner-unterwelten",
+    "schedule": "2:30pm a 4pm",
+    "comments": ""
+  },
+  {
+    "id": "aact-20260703-3",
+    "placeId": "ayuntamiento-rojo",
+    "schedule": "4:30pm a 5:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-4",
+    "placeId": "alexanderplatz",
+    "schedule": "5:40pm a 6:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-5",
+    "placeId": "dead-chicken-alley",
+    "schedule": "6:10pm a 6:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-6",
+    "placeId": "hackescher-markt",
+    "schedule": "6:40pm a 7:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-7",
+    "placeId": "block-der-frauen",
+    "schedule": "7:10pm a 7:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-8",
+    "placeId": "bebelplatz",
+    "schedule": "7:30pm a 7:50pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260703-9",
+    "placeId": "muro-de-berlin",
+    "schedule": "8:15pm a 8:35pm",
+    "comments": ""
+  }
+]
