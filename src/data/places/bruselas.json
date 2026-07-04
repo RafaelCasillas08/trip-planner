@@ -8,8 +8,8 @@
     "timeNeeded": "20 min",
     "location": "https://maps.app.goo.gl/zjS26JTj71abe7DR9",
     "hours": "open 24h",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8467824,
+    "lng": 4.3524579
   },
   {
     "id": "galeria-saint-hubert",
@@ -20,8 +20,8 @@
     "timeNeeded": "15 min",
     "location": "https://maps.app.goo.gl/Tch2AHZfFk3RU5pP9",
     "hours": "open 24h",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8480832,
+    "lng": 4.3552506
   },
   {
     "id": "mont-des-arts",
@@ -32,8 +32,8 @@
     "timeNeeded": "30 min",
     "location": "https://maps.app.goo.gl/oTqhKQaBXArv95pw9",
     "hours": "open 24h",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8434789,
+    "lng": 4.3574205
   },
   {
     "id": "atomium",
@@ -44,8 +44,8 @@
     "timeNeeded": "1.5 hrs",
     "location": "https://maps.app.goo.gl/MVWkSais6cxk3z3cA",
     "hours": "10am a 6pm",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8948787,
+    "lng": 4.3415547
   },
   {
     "id": "mini-europe",
@@ -56,8 +56,8 @@
     "timeNeeded": "1 hr",
     "location": "https://maps.app.goo.gl/D4j7EYbP6be4Jmc96",
     "hours": "9:30am a 7pm",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8940497,
+    "lng": 4.3389622
   },
   {
     "id": "parque-cincuentenario",
@@ -68,8 +68,8 @@
     "timeNeeded": "30 min",
     "location": "https://maps.app.goo.gl/uubcbZAXnFTKyARc7",
     "hours": "6am a 10pm",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.841393,
+    "lng": 4.3904833
   },
   {
     "id": "palacio-real-bruselas",
@@ -80,8 +80,8 @@
     "timeNeeded": "2 hrs",
     "location": "https://maps.app.goo.gl/diRMo7Nj6JvmHFJu5",
     "hours": "abrierto el viernes a las 10:30am comprar boleto con anticipación online",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8420026,
+    "lng": 4.3623406
   },
   {
     "id": "catedral-san-miguel-gudula",
@@ -92,8 +92,8 @@
     "timeNeeded": "",
     "location": "https://maps.app.goo.gl/1TfYzmY8yh14eyjr7",
     "hours": "8am a 6pm",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8479083,
+    "lng": 4.3601497
   },
   {
     "id": "palacio-justicia-bruselas",
@@ -104,8 +104,8 @@
     "timeNeeded": "20 min",
     "location": "https://maps.app.goo.gl/qFzo7CHVeKgmcVPt7",
     "hours": "8am a 4pm, cerrado sabados y domingos",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8366449,
+    "lng": 4.3516068
   },
   {
     "id": "puerta-halle",
@@ -116,8 +116,8 @@
     "timeNeeded": "15 min",
     "location": "https://maps.app.goo.gl/wY2BmcyJswHxffvs9",
     "hours": "9:30 am a 5:00pm, cerrado los viernes",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8329167,
+    "lng": 4.3448437
   },
   {
     "id": "rue-des-bouchers",
@@ -128,8 +128,8 @@
     "timeNeeded": "20 min",
     "location": "https://maps.app.goo.gl/KTHaFM1Ni9RUM77JA",
     "hours": "open 24h",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8478758,
+    "lng": 4.3546137
   },
   {
     "id": "basilica-sagrado-corazon",
@@ -140,7 +140,7 @@
     "timeNeeded": "20 min",
     "location": "https://maps.app.goo.gl/ams6Lv4tLCyuGAVv9",
     "hours": "9am a 6pm",
-    "lat": 0,
-    "lng": 0
+    "lat": 50.8672216,
+    "lng": 4.3169473
   }
 ]
