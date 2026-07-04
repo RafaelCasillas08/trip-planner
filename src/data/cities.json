@@ -144,6 +144,14 @@
     "lng": 4.9041
   },
   {
+    "id": "la-haya-delft",
+    "name": "La Haya y Delft",
+    "country": "Países Bajos",
+    "coverPhoto": "",
+    "lat": 52.0788074,
+    "lng": 4.3116201
+  },
+  {
     "id": "bruselas",
     "name": "Bruselas",
     "country": "Bélgica",
@@ -152,12 +160,44 @@
     "lng": 4.3517
   },
   {
+    "id": "gante",
+    "name": "Gante",
+    "country": "Bélgica",
+    "coverPhoto": "",
+    "lat": 51.0491947,
+    "lng": 3.722523
+  },
+  {
+    "id": "amberes",
+    "name": "Amberes",
+    "country": "Bélgica",
+    "coverPhoto": "",
+    "lat": 51.2158489,
+    "lng": 4.4144352
+  },
+  {
+    "id": "lovaina",
+    "name": "Lovaina",
+    "country": "Bélgica",
+    "coverPhoto": "",
+    "lat": 50.8785505,
+    "lng": 4.7011601
+  },
+  {
     "id": "colonia",
     "name": "Colonia",
     "country": "Alemania",
     "coverPhoto": "",
     "lat": 50.938,
     "lng": 6.9603
+  },
+  {
+    "id": "bonn",
+    "name": "Bonn",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 50.7369366,
+    "lng": 7.1005372
   },
   {
     "id": "cochem",
@@ -174,6 +214,14 @@
     "coverPhoto": "",
     "lat": 49.6117,
     "lng": 6.13
+  },
+  {
+    "id": "estrasburgo",
+    "name": "Estrasburgo",
+    "country": "Francia",
+    "coverPhoto": "",
+    "lat": 48.5738813,
+    "lng": 7.7506482
   },
   {
     "id": "paris",
