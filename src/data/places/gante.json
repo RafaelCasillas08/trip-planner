@@ -1,0 +1,86 @@
+[
+  {
+    "id": "castillo-de-los-condes",
+    "cityId": "gante",
+    "name": "Castillo del Condes",
+    "comments": "Fortaleza medieval en el corazón de Gante, residencia de los Condes de Flandes durante siglos. Alberga un museo de armas y un recorrido por las mazmorras y las salas nobiliarias con vistas al río Leie.",
+    "photos": ["belgica/castillo-de-los-condes.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/MA5fGsiAnNphEYnMA",
+    "hours": "10am a 6pm",
+    "lat": 51.0571769,
+    "lng": 3.7207225
+  },
+  {
+    "id": "catedral-san-bavon",
+    "cityId": "gante",
+    "name": "Catedral de San Bavón",
+    "comments": "Catedral gótica que alberga el famoso retablo del \"Cordero Místico\" de los hermanos Van Eyck, una de las obras maestras del arte flamenco. Reservar entrada con antelación para ver el retablo abierto.",
+    "photos": ["belgica/catedral-san-bavon.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/AwUdzjdjB6XXJAWr8",
+    "hours": "8:30am a 5pm, domingo de 1pm a 5:30pm",
+    "lat": 51.0532335,
+    "lng": 3.726506
+  },
+  {
+    "id": "iglesia-san-miguel-gante",
+    "cityId": "gante",
+    "name": "Iglesia de San Miguel",
+    "comments": "Iglesia barroca con una torre de 24 metros visible desde los muelles de Graslei. Su interior alberga un órgano histórico y un ambiente más íntimo que las grandes catedrales de la ciudad.",
+    "photos": ["belgica/iglesia-san-miguel-gante.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/o6916wteNNwzrHuFA",
+    "hours": "2pm a 5pm",
+    "lat": 51.053535,
+    "lng": 3.7196033
+  },
+  {
+    "id": "iglesia-san-nicolas-gante",
+    "cityId": "gante",
+    "name": "Iglesia de San Nicolás",
+    "comments": "Iglesia gótica escabroza del siglo XIII, una de las más antiguas de Gante. Su torre de ladrillo rojo contrasta con las fachadas de los edificios de los gremios en el Korenmarkt.",
+    "photos": ["belgica/iglesia-san-nicolas-gante.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/gPWvzcuvRt6oRiBJ9",
+    "hours": "10am a 4pm",
+    "lat": 51.0539136,
+    "lng": 3.7229356
+  },
+  {
+    "id": "graslei-korenlei",
+    "cityId": "gante",
+    "name": "Muelles de Graslei y Korenlei",
+    "comments": "El paisaje más fotografiado de Gante: las casas de los gremios medievales reflejadas en el canal Leie. Pasear por ambos muelles es imprescindible, especialmente al atardecer.",
+    "photos": ["belgica/graslei-korenlei.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/655Ri5TEYCqXjQt28",
+    "hours": "open 24h",
+    "lat": 51.0549024,
+    "lng": 3.7202407
+  },
+  {
+    "id": "kokenmarkt",
+    "cityId": "gante",
+    "name": "Kokenmarkt",
+    "comments": "Plaza histórica junto a la iglesia de San Nicolás, antiguo mercado de cereales. Hoy es un punto de encuentro rodeado de terrazas y un buen lugar para observar la vida local.",
+    "photos": ["belgica/kokenmarkt.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/sQDmV37Qeshhunt97",
+    "hours": "No dice nada",
+    "lat": 51.0546415,
+    "lng": 3.7218007
+  },
+  {
+    "id": "ayuntamiento-gante",
+    "cityId": "gante",
+    "name": "Ayuntamiento de Gante",
+    "comments": "Edificio gótico y renacentista en el Korenmarkt, con una fachada ricamente decorada que mezcla estilos. Las visitas guiadas permiten ver las salas de recepción y el patio interior.",
+    "photos": ["belgica/ayuntamiento-gante.png"],
+    "timeNeeded": "10 min",
+    "location": "https://maps.app.goo.gl/ByopNSkEL9uoXvgN8",
+    "hours": "8am a 5pm, cerrado sabados y domingos",
+    "lat": 51.0544739,
+    "lng": 3.7252713
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "binnenhof",
+    "cityId": "la-haya-delft",
+    "name": "Binnenhof",
+    "comments": "Complejo histórico que reune el parlamento neerlandes",
+    "photos": ["holanda/binnenhof.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/YPAAcvM91RwBZTvF6",
+    "hours": "Open 24h",
+    "lat": 52.0795985,
+    "lng": 4.313273
+  },
+  {
+    "id": "palacio-de-la-paz",
+    "cityId": "la-haya-delft",
+    "name": "Palacio de la Paz",
+    "comments": "Visitar solo el exterior",
+    "photos": ["holanda/palacio-de-la-paz.png"],
+    "timeNeeded": "15 min",
+    "location": "https://maps.app.goo.gl/fQY4BoDgiSofeCmC7",
+    "hours": "12pm a 5pm, cerrado domingo, lunes y martes",
+    "lat": 52.0869417,
+    "lng": 4.2954651
+  },
+  {
+    "id": "madurodam",
+    "cityId": "la-haya-delft",
+    "name": "Madurodam (Holanda en miniatura)",
+    "comments": "",
+    "photos": ["holanda/madurodam.png"],
+    "timeNeeded": "1 hr",
+    "location": "https://maps.app.goo.gl/WQqvgAeVJWigWpCM8",
+    "hours": "9am a 6pm",
+    "lat": 52.099076,
+    "lng": 4.2990392
+  },
+  {
+    "id": "scheveningen",
+    "cityId": "la-haya-delft",
+    "name": "Scheveningen",
+    "comments": "La playa más famosa del país. El muelle y la noria ofrecen buenas vistas.",
+    "photos": ["holanda/scheveningen.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/hCffCqYjjApRtgz5A",
+    "hours": "",
+    "lat": 52.1022707,
+    "lng": 4.3008009
+  },
+  {
+    "id": "plaza-mercado-delft",
+    "cityId": "la-haya-delft",
+    "name": "Plaza del Mercado en Delft",
+    "comments": "Considerada de las plazas más bonitas del país",
+    "photos": ["holanda/plaza-mercado-delft.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/DJrQz5fbYqYFSdXx5",
+    "hours": "open 24h",
+    "lat": 52.0112793,
+    "lng": 4.3624473
+  },
+  {
+    "id": "oude-kerk-delft",
+    "cityId": "la-haya-delft",
+    "name": "Oude Kerk",
+    "comments": "Destaca por su torre inclinada y porque alberga la tumba de Johannes Vermeer",
+    "photos": ["holanda/oude-kerk-delft.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/ebuUV4uTpkcMPdvVA",
+    "hours": "L-S 10am a 5pm, domingos cierra",
+    "lat": 52.012638,
+    "lng": 4.3560499
+  },
+  {
+    "id": "royal-delft",
+    "cityId": "la-haya-delft",
+    "name": "Royal Delft",
+    "comments": "La fábrica histórica donde se produce la famosa cerámica azul de Delft",
+    "photos": ["holanda/royal-delft.png"],
+    "timeNeeded": "1 hr",
+    "location": "https://maps.app.goo.gl/cP5ndVi8bTiRAxLR6",
+    "hours": "9:30 a 5pm",
+    "lat": 52.0014009,
+    "lng": 4.3668872
+  }
+]

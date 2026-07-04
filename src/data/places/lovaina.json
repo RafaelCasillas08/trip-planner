@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ayuntamiento-lovaina",
+    "cityId": "lovaina",
+    "name": "Ayuntamiento de Lovaina",
+    "comments": "Edificio gótico tardío del siglo XV en la plaza del mercado, con 236 estatuas en su fachada que representan personajes bíblicos, históricos y alegóricos. Una de las fachadas civiles más ricas de Bélgica.",
+    "photos": ["belgica/ayuntamiento-lovaina.png"],
+    "timeNeeded": "15 min",
+    "location": "https://maps.app.goo.gl/utj5JTpxVj2pGFpL6",
+    "hours": "cerrado temporalmente",
+    "lat": 50.8789058,
+    "lng": 4.7011874
+  },
+  {
+    "id": "oude-markt-lovaina",
+    "cityId": "lovaina",
+    "name": "Oude Markt",
+    "comments": "La plaza más animada de Lovaina, conocida como \"la barra más larga del mundo\" por la concentración de bares y terrazas. Ambiente universitario y vida nocturna muy activa.",
+    "photos": ["belgica/oude-markt-lovaina.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/pJW8o2magCoCYyNb9",
+    "hours": "open 24h",
+    "lat": 50.8783394,
+    "lng": 4.6995892
+  },
+  {
+    "id": "biblioteca-universitaria-lovaina",
+    "cityId": "lovaina",
+    "name": "Biblioteca universitaria de Lovaina",
+    "comments": "Icono de la ciudad diseñada por el arquitecto belga Henry van de Velde. Su torre de reloj de estilo art déco es uno de los símbolos más reconocibles de Lovaina.",
+    "photos": ["belgica/biblioteca-universitaria-lovaina.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/7Lhyued3Rtzn9qhX8",
+    "hours": "9am a 6pm",
+    "lat": 50.878131,
+    "lng": 4.7073016
+  },
+  {
+    "id": "beguinaje-lovaina",
+    "cityId": "lovaina",
+    "name": "Gran Beguinaje de Lovaina",
+    "comments": "Conjunto de casas de beguinas del siglo XIII, declarado Patrimonio de la UNESCO. Un oasis de tranquilidad con callejuelas empedradas, jardines y casas blancas junto al canal.",
+    "photos": ["belgica/beguinaje-lovaina.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/7cftd9Eww9ETB32S6",
+    "hours": "open 24h",
+    "lat": 50.8717337,
+    "lng": 4.6973922
+  },
+  {
+    "id": "iglesia-san-pedro-lovaina",
+    "cityId": "lovaina",
+    "name": "Iglesia de San Pedro",
+    "comments": "Iglesia gótica del siglo XV en el Grote Markt, con una torre inacabada que contrasta con la fachada del ayuntamiento. Su interior alberga obras de arte flamenco y un órgano histórico.",
+    "photos": ["belgica/iglesia-san-pedro-lovaina.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/DZWFbMQd9rvddEkF6",
+    "hours": "10am a 4:30pm, miercoles cerrados, sabados de 11 a 4:30pm",
+    "lat": 50.879729,
+    "lng": 4.700699
+  },
+  {
+    "id": "castillo-arenberg",
+    "cityId": "lovaina",
+    "name": "Castillo de los Arenberg",
+    "comments": "Castillo renacentista del siglo XVI a las afueras de Lovaina, sede del departamento de ingeniería de la universidad. El parque que lo rodea es ideal para un paseo tranquilo.",
+    "photos": ["belgica/castillo-arenberg.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/bdgVRyCA7PQxoBASA",
+    "hours": "7am a 11pm, cierra sabados y domingos",
+    "lat": 50.8631364,
+    "lng": 4.6833985
+  }
+]

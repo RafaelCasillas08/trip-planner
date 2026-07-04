@@ -1,0 +1,98 @@
+[
+  {
+    "id": "estacion-central-amberes",
+    "cityId": "amberes",
+    "name": "Estación Central de Amberes",
+    "comments": "Estación ferroviaria de 1905 con una imponente fachada de piedra y una cúpula de hierro y cristal de 75 metros. Considerada una de las estaciones más bellas del mundo, merece una parada aunque no viajes en tren.",
+    "photos": ["belgica/estacion-central-amberes.png"],
+    "timeNeeded": "15 min",
+    "location": "https://maps.app.goo.gl/xMLEunQodCvgRbW47",
+    "hours": "No dice nada",
+    "lat": 51.21602,
+    "lng": 4.42105
+  },
+  {
+    "id": "ayuntamiento-amberes",
+    "cityId": "amberes",
+    "name": "Ayuntamiento de Amberes",
+    "comments": "Edificio renacentista flamenco del siglo XVI en el Grote Markt, con fachada ricamente ornamentada y estatuas de los condes y duquesas de Brabante. Solo se visita con tour guiado.",
+    "photos": ["belgica/ayuntamiento-amberes.png"],
+    "timeNeeded": "10 min",
+    "location": "https://maps.app.goo.gl/afme8GNmZTJroFtbA",
+    "hours": "8:30am a 5:30pm, cerrado sabados y domingos",
+    "lat": 51.2213193,
+    "lng": 4.3993287
+  },
+  {
+    "id": "grote-markt-amberes",
+    "cityId": "amberes",
+    "name": "Grote Markt",
+    "comments": "Plaza principal de Amberes rodeada de casas gremiales del siglo XVI con fachadas de ladrillo y piedra. En el centro se alza la fuente de Brabo, la leyenda fundacional de la ciudad.",
+    "photos": ["belgica/grote-markt-amberes.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/cLRFuFVoSe2Lqww56",
+    "hours": "open 24h",
+    "lat": 51.22114,
+    "lng": 4.4002183
+  },
+  {
+    "id": "groenplaats",
+    "cityId": "amberes",
+    "name": "Groenplaats",
+    "comments": "Plaza verde con la estatua ecuestre de Rubens y vistas a la catedral. Punto de encuentro céntrico ideal para tomar un café antes de visitar el casco histórico.",
+    "photos": ["belgica/groenplaats.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/nCNoYaQPusRD4FW79",
+    "hours": "open 24h",
+    "lat": 51.2189474,
+    "lng": 4.4011116
+  },
+  {
+    "id": "barrio-diamantes",
+    "cityId": "amberes",
+    "name": "Barrio de los Diamantes",
+    "comments": "Amberes concentra el 80% del comercio mundial de diamantes en bruto. El distrito junto a la estación central es un laberinto de oficinas y talleres donde se negocian y tallan piedras preciosas.",
+    "photos": ["belgica/barrio-diamantes.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/vxNTucmKJjn4W9Rk8",
+    "hours": "9am a 7pm, cerrado los sabados",
+    "lat": 51.2144888,
+    "lng": 4.4190257
+  },
+  {
+    "id": "catedral-nuestra-senora-amberes",
+    "cityId": "amberes",
+    "name": "Catedral de Nuestra Señora de Amberes",
+    "comments": "Catedral gótica con una torre de 123 metros que domina el skyline. Alberga cuatro obras maestras de Rubens, incluyendo \"El Descendimiento\" y \"La Elevación de la Cruz\".",
+    "photos": ["belgica/catedral-nuestra-senora-amberes.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/TdzeWe9rxqU8JVUE6",
+    "hours": "10am a 5pm, domingos de 1 a 5pm",
+    "lat": 51.2203702,
+    "lng": 4.4015342
+  },
+  {
+    "id": "barrio-eilandje",
+    "cityId": "amberes",
+    "name": "Barrio de Eilandje",
+    "comments": "Antiguo puerto reconvertido en zona trendy con el MAS (Museum aan de Stroom), restaurantes y arquitectura contemporánea. Buen contraste con el casco histórico y vistas al río Escalda.",
+    "photos": ["belgica/barrio-eilandje.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/f4aNoKtd9T567m9m6",
+    "hours": "open 24h",
+    "lat": 51.2352777,
+    "lng": 4.409904
+  },
+  {
+    "id": "castillo-steen",
+    "cityId": "amberes",
+    "name": "Castillo de Steen",
+    "comments": "Fortaleza medieval del siglo XIII, la edificación más antigua de Amberes. Hoy alberga el Museo Nacional de la Marina y ofrece una mirada al pasado defensivo de la ciudad junto al río.",
+    "photos": ["belgica/castillo-steen.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/SdxxQWSj8Yrd3bej9",
+    "hours": "10am a 6pm",
+    "lat": 51.2227238,
+    "lng": 4.3973637
+  }
+]
