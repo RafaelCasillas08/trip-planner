@@ -1,0 +1,54 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-1",
+    "placeId": "castillo-de-los-condes",
+    "schedule": "10am a 12pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-2",
+    "placeId": "graslei-korenlei",
+    "schedule": "12:15pm a 12:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-3",
+    "placeId": "iglesia-san-miguel-gante",
+    "schedule": "12:30pm a 1pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-4",
+    "placeId": "kokenmarkt",
+    "schedule": "2pm a 2:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-5",
+    "placeId": "iglesia-san-nicolas-gante",
+    "schedule": "2:30pm a 2:50pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-6",
+    "placeId": "ayuntamiento-gante",
+    "schedule": "3pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260715-7",
+    "placeId": "catedral-san-bavon",
+    "schedule": "3:30pm a 4pm",
+    "comments": ""
+  }
+]
