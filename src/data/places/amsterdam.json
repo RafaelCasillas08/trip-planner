@@ -240,21 +240,6 @@
     "lng": 4.6439249
   },
   {
-    "id": "la-haya",
-    "cityId": "amsterdam",
-    "name": "La Haya y Delft",
-    "location": "https://maps.app.goo.gl/tn5PXMnhjRZRfWqP6",
-    "photos": ["holanda/la-haya-1.png"],
-    "comments": "",
-    "cost": "",
-    "transport": "Tren desde Ámsterdam (45min)",
-    "website": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 52.0788074,
-    "lng": 4.3116201
-  },
-  {
     "id": "efteling",
     "cityId": "amsterdam",
     "name": "Efteling",
