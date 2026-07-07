@@ -31,5 +31,11 @@
     "type": "work",
     "schedule": "6pm",
     "comments": ""
+  },
+  {
+    "id": "act-20260710-4",
+    "placeId": "casas-de-siete-paises",
+    "schedule": "7pm a 7:30pm",
+    "comments": ""
   }
 ]
