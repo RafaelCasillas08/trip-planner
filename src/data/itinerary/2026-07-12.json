@@ -1,0 +1,54 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-1",
+    "placeId": "binnenhof",
+    "schedule": "10am a 10:30am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-2",
+    "placeId": "palacio-de-la-paz",
+    "schedule": "10:45am a 11am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-3",
+    "placeId": "scheveningen",
+    "schedule": "11:30am a 12pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-4",
+    "placeId": "madurodam",
+    "schedule": "12:30pm a 2pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-5",
+    "placeId": "royal-delft",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-6",
+    "placeId": "oude-kerk-delft",
+    "schedule": "4:30pm a 5pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260712-7",
+    "placeId": "plaza-mercado-delft",
+    "schedule": "5pm a 5:30pm",
+    "comments": ""
+  }
+]
