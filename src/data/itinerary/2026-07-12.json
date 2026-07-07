@@ -50,5 +50,11 @@
     "placeId": "plaza-mercado-delft",
     "schedule": "5pm a 5:30pm",
     "comments": ""
+  },
+  {
+    "id": "act-20260712-8",
+    "placeId": "haarlem",
+    "schedule": "7pm a 8pm",
+    "comments": ""
   }
 ]
