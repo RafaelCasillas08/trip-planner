@@ -1,0 +1,90 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "Conocer Gante"
+  },
+  {
+    "id": "act-20260716-1",
+    "placeId": "estacion-central-amberes",
+    "schedule": "9:45am a 10am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-2",
+    "placeId": "groenplaats",
+    "schedule": "10:15am a 10:25am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-3",
+    "placeId": "catedral-nuestra-senora-amberes",
+    "schedule": "10:30am a 11am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-4",
+    "placeId": "grote-markt-amberes",
+    "schedule": "11am a 11:10am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-5",
+    "placeId": "ayuntamiento-amberes",
+    "schedule": "11:10am a 11:20am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-6",
+    "placeId": "castillo-steen",
+    "schedule": "11:30am a 12pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-7",
+    "placeId": "barrio-diamantes",
+    "schedule": "12:20pm a 12:40pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:30pm a 2:30pm",
+    "comments": "Comida en Lovaina"
+  },
+  {
+    "id": "act-20260716-8",
+    "placeId": "biblioteca-universitaria-lovaina",
+    "schedule": "2:30pm a 2:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-9",
+    "placeId": "ayuntamiento-lovaina",
+    "schedule": "3pm a 3:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-10",
+    "placeId": "iglesia-san-pedro-lovaina",
+    "schedule": "3:15pm a 3:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-11",
+    "placeId": "oude-markt-lovaina",
+    "schedule": "3:45pm a 4pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-12",
+    "placeId": "beguinaje-lovaina",
+    "schedule": "4:20pm a 4:40pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260716-13",
+    "placeId": "castillo-arenberg",
+    "schedule": "5pm a 6pm",
+    "comments": ""
+  }
+]
