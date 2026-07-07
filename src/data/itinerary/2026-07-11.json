@@ -1,0 +1,72 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-1",
+    "placeId": "de-haar-castle",
+    "schedule": "10am a 2pm",
+    "comments": "3hrs para el castillo y 1hr para el pueblo"
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-0",
+    "placeId": "estacion-central-amsterdam",
+    "schedule": "4pm a 4:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-2",
+    "placeId": "mercado-de-flores",
+    "schedule": "4:30pm a 5pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-3",
+    "placeId": "nine-streets",
+    "schedule": "5:10pm a 5:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-4",
+    "placeId": "barrio-de-jordaan",
+    "schedule": "5:30pm a 6pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-5",
+    "placeId": "casa-de-anna-frank",
+    "schedule": "6pm a 6:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-6",
+    "placeId": "canales-de-amsterdam",
+    "schedule": "6:15pm a 7pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-7",
+    "placeId": "oude-kerk-iglesia-vieja",
+    "schedule": "7pm a 7:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-8",
+    "placeId": "waag",
+    "schedule": "7:45pm a 8pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260711-9",
+    "placeId": "barrio-rojo-amsterdam",
+    "schedule": "8pm",
+    "comments": ""
+  }
+]
