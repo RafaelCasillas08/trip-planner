@@ -1,0 +1,13 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "Conocer Gante"
+  },
+  {
+    "id": "act-20260713-1",
+    "placeId": efteling",
+    "schedule": "Todo el dia",
+    "comments": ""
+  }
+]
