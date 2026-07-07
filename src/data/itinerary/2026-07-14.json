@@ -1,0 +1,18 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "amsterdam",
+    "toCityId": "bruselas",
+    "transportMode": "",
+    "duration": "",
+    "stationTime": "",
+    "departureTime": "",
+    "arrivalTime": "",
+    "comments": ""
+  }
+]
