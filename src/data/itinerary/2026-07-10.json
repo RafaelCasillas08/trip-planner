@@ -1,0 +1,35 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260710-1",
+    "placeId": "museo-van-gogh",
+    "schedule": "9am a 11:30am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260710-2",
+    "placeId": "rijksmuseum",
+    "schedule": "11:30am a 2:30pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260710-3",
+    "placeId": "palacio-real-de-amsterdam",
+    "schedule": "4pm a 6pm",
+    "comments": ""
+  },
+  {
+    "type": "work",
+    "schedule": "6pm",
+    "comments": ""
+  }
+]
