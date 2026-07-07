@@ -1,0 +1,66 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-1",
+    "placeId": "mini-europe",
+    "schedule": "9:30am a 11am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-2",
+    "placeId": "atomium",
+    "schedule": "11am a 1pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:30pm a 2:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-3",
+    "placeId": "palacio-real-bruselas",
+    "schedule": "2:30pm a 4pm",
+    "comments": "Solo hay tickets para el viernes"
+  },
+  {
+    "id": "act-20260717-4",
+    "placeId": "mont-des-arts",
+    "schedule": "4pm a 4:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-5",
+    "placeId": "grand-place",
+    "schedule": "4:45pm a 5pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-6",
+    "placeId": "rue-des-bouchers",
+    "schedule": "5pm a 5:10pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-7",
+    "placeId": "galeria-saint-hubert",
+    "schedule": "5:10pm a 5:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-8",
+    "placeId": "catedral-san-miguel-gudula",
+    "schedule": "5:30pm a 6pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260717-9",
+    "placeId": "parque-cincuentenario",
+    "schedule": "6:20pm a 6:40pm",
+    "comments": ""
+  }
+]
