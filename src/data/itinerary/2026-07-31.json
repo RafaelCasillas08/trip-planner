@@ -1,0 +1,66 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "Conocer París"
+  },
+  {
+    "id": "act-20260731-1",
+    "placeId": "louvre",
+    "schedule": "9am a 12pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-2",
+    "placeId": "palacio-real",
+    "schedule": "12:05pm a 12:25pm",
+    "comments": "20 min"
+  },
+  {
+    "id": "act-20260731-3",
+    "placeId": "jardines-del-palacio-real",
+    "schedule": "12:30pm a 1pm",
+    "comments": "20 min"
+  },
+  {
+    "id": "act-20260731-4",
+    "placeId": "galeria-vivienne",
+    "schedule": "12:45pm a 1pm",
+    "comments": "Ver si comemos por ahí; es de tiendas"
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Rue Montorgueil (Les Halles)"
+  },
+  {
+    "id": "act-20260731-5",
+    "placeId": "biblioteca-nacional",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": "Alternativa: Biblioteca Mazarino"
+  },
+  {
+    "id": "act-20260731-6",
+    "placeId": "opera-garnier",
+    "schedule": "3:45pm a 4:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-7",
+    "placeId": "galerias-lafayette",
+    "schedule": "4:55pm a 5:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-8",
+    "placeId": "iglesia-de-la-madeleine",
+    "schedule": "5:40pm a 6:15pm",
+    "comments": "Cierran a las 7pm"
+  },
+  {
+    "id": "act-20260731-9",
+    "placeId": "ayuntamiento-de-paris",
+    "schedule": "6:30pm a 7pm",
+    "comments": ""
+  }
+]
