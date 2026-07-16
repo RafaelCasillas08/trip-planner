@@ -5,11 +5,11 @@
     "name": "Plaza de Trocadero",
     "comments": "El mejor mirador a la Torre Eiffel. Jardines con estanques y fuentes que bajan del palacio de Chaillot hasta el puente de Jena. Al anochecer, la iluminación de la torre y los destellos cada hora en punto.",
     "photos": ["paris/plaza-de-trocadero.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/qLPTf45WRHT4t3fFA",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8628748,
+    "lng": 2.2873248
   },
   {
     "id": "campo-de-marte",
@@ -17,11 +17,11 @@
     "name": "Campo de Marte",
     "comments": "Amplio espacio verde con avenidas arboladas y zonas de césped con vistas a la Torre Eiffel. La Rue de l'Université ofrece otra perspectiva única del monumento.",
     "photos": ["paris/campo-de-marte.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/KBbzpFzDpgnD29neA",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8558047,
+    "lng": 2.2983766
   },
   {
     "id": "torre-eiffel",
@@ -29,11 +29,11 @@
     "name": "Torre Eiffel",
     "comments": "Símbolo de París y monumento más visitado del mundo, con más de 7 millones de personas al año. Estructura de hierro de 300 metros construida por Gustave Eiffel para la Exposición Universal de 1889.",
     "photos": ["paris/torre-eiffel.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/nr34Qg6bdgKqGhxa8",
+    "hours": "9am a 12am",
+    "timeNeeded": "2 hrs",
+    "lat": 48.8583701,
+    "lng": 2.2944813
   },
   {
     "id": "arco-del-triunfo",
@@ -41,11 +41,11 @@
     "name": "Arco del Triunfo de París",
     "comments": "Construido entre 1806 y 1836 por Napoleón para recordar la victoria en Austerlitz. Situado en una de las rotondas más grandes del mundo, alberga la Tumba al Soldado Desconocido y ofrece excelentes vistas a los Campos Elíseos.",
     "photos": ["paris/arco-del-triunfo.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/NxTzHnvm4ffPj1Z6A",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8737917,
+    "lng": 2.2950275
   },
   {
     "id": "campos-eliseos",
@@ -53,11 +53,11 @@
     "name": "Campos Elíseos",
     "comments": "Avenida de dos kilómetros que une el Arco del Triunfo con la Plaza de la Concordia. Rodeada de teatros, cafés, tiendas de lujo y edificios históricos como el Petit y el Grand Palais.",
     "photos": ["paris/campos-eliseos.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/yEyEj7WxwnuSQvez9",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8729602,
+    "lng": 2.2978526
   },
   {
     "id": "plaza-de-la-concordia",
@@ -65,11 +65,23 @@
     "name": "Plaza de la Concordia",
     "comments": "La plaza más grande de París, escenario principal de la Revolución Francesa. Destaca su obelisco egipcio de más de 3.000 años y las fuentes monumentales de los Mares y de los Ríos.",
     "photos": ["paris/plaza-de-la-concordia.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/FqDfWnuZdZ9WUDXr7",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8655842,
+    "lng": 2.3205491
+  },
+  {
+    "id": "puente-alejandro-iii",
+    "cityId": "paris",
+    "name": "Puente Alejandro III",
+    "comments": "Puente sobre el Sena que une el barrio de la Île de la Cité con el barrio de la Quai d'Orsay. Alberga la escultura de Alejandro III, símbolo de la Francia del siglo XIX.",
+    "photos": ["paris/puente-alejandro-iii.png"],
+    "location": "https://maps.app.goo.gl/cv9n6V8YZTPAMHug7",
+    "hours": "Siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.8638338,
+    "lng": 2.3135482
   },
   {
     "id": "jardines-de-las-tullerias",
@@ -77,11 +89,11 @@
     "name": "Jardines de las Tullerías",
     "comments": "Jardines de estilo florentino creados por Catalina de Medicis en 1564. Avenida central con árboles, estatuas, fuentes y estanques hasta el Arco de Triunfo de Carrusel.",
     "photos": ["paris/jardines-de-las-tullerias.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/1PVov5FCcAxT1sau5",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8634916,
+    "lng": 2.3274943
   },
   {
     "id": "louvre",
@@ -89,35 +101,35 @@
     "name": "El Louvre",
     "comments": "El museo más famoso y visitado del mundo, ubicado en el Palacio del Louvre. Alberga obras maestras como La Gioconda, la Venus de Milo y el Escriba Sentado. Su pirámide de cristal iluminada al anochecer es icónica.",
     "photos": ["paris/louvre.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/jYSpjvfLD9MQ1xpTA",
+    "hours": "9am a 6pm. Miercoles y Viernes hasta las 9pm",
+    "timeNeeded": "3 hrs",
+    "lat": 48.8606111,
+    "lng": 2.337644
   },
   {
-    "id": "palacio-real",
+    "id": "palacio-real-paris",
     "cityId": "paris",
     "name": "Palacio Real",
     "comments": "Palais Royal, antigua residencia de la familia real junto al Louvre. Destacan los patios con arcadas, las columnas de Buren y las galerías comerciales bajo los soportales.",
-    "photos": ["paris/jardines-del-palacio-real.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "20 min",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/palacio-real-paris.png"],
+    "location": "https://maps.app.goo.gl/g98u5hRgwjoTtafg9",
+    "hours": "8:30am a 10:30pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8637569,
+    "lng": 2.3371261
   },
   {
-    "id": "jardines-del-palacio-real",
+    "id": "jardines-del-palacio-real-paris",
     "cityId": "paris",
     "name": "Jardines del Palacio Real",
     "comments": "Remanso de paz a pocos metros del Louvre. Destacan las columnas de Buren y un espacio ajardinado con fuentes y soportales con tiendas de antigüedades y ropa vintage.",
-    "photos": ["paris/jardines-del-palacio-real.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/jardines-del-palacio-real-paris.png"],
+    "location": "https://maps.app.goo.gl/jyVM3dYQ385QrGkf9",
+    "hours": "Siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.8649723,
+    "lng": 2.3378061
   },
   {
     "id": "galeria-vivienne",
@@ -125,47 +137,38 @@
     "name": "Galería Vivienne de París",
     "comments": "Una de las galerías cubiertas más elegantes de París, con arquitectura neoclásica, techo de cristal, columnas corintias y suelo de mosaicos coloridos. Alberga tiendas de moda, antigüedades y cafeterías.",
     "photos": ["paris/galeria-vivienne.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/CPgctvpRs6UBdHAJ7",
+    "hours": "8:30 am a 8pm",
+    "timeNeeded": "20 min",
+    "lat": 48.8663533,
+    "lng": 2.3394854
   },
   {
-    "id": "biblioteca-nacional",
+    "id": "biblioteca-nacional-paris",
     "cityId": "paris",
     "name": "Biblioteca Nacional",
     "comments": "Sede Richelieu-Louvois de la Biblioteca Nacional de Francia. Aunque el acceso público es limitado, permite ver su preciosa sala de lectura con nueve cúpulas apoyadas sobre arcos de hierro.",
-    "photos": ["paris/biblioteca-nacional.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "place-vendome",
-    "cityId": "paris",
-    "name": "Place Vendome de París",
-    "comments": "Plaza presidida por la columna Vendome, levantada por Napoleón en 1810 imitando la columna Trajana de Roma. Rodeada de hoteles de lujo como el Ritz y tiendas de alta joyería como Cartier.",
-    "photos": ["paris/place-vendome.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/biblioteca-nacional-paris.png"],
+    "location": "https://maps.app.goo.gl/N3sDNzgy7eLRP34M6",
+    "hours": "10am a 6pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8673812,
+    "lng": 2.3384826
   },
   {
     "id": "iglesia-de-la-madeleine",
     "cityId": "paris",
     "name": "Iglesia de la Madeleine",
     "comments": "Templo que recuerda a los de la Antigua Grecia, con 52 columnas corintias de 20 metros. Levantada en honor de la Gran Armada Francesa por orden de Napoleón, guarda las reliquias de Santa María Magdalena.",
-    "photos": ["paris/iglesia-de-la-madeleine.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "photos": [
+      "paris/iglesia-de-la-madeleine-1.png",
+      "paris/iglesia-de-la-madeleine-2.png"
+    ],
+    "location": "https://maps.app.goo.gl/qf9DdxqGsjLm48th6",
+    "hours": "9:30am a 7pm",
+    "timeNeeded": "20 min",
+    "lat": 48.8700435,
+    "lng": 2.3245502
   },
   {
     "id": "opera-garnier",
@@ -173,11 +176,11 @@
     "name": "Ópera Garnier de París",
     "comments": "Inmenso edificio neobarroco del siglo XIX, símbolo de la opulencia napoleónica. Destacan la gran escalera de mármol, el vestíbulo y la sala de espectáculos en rojos y dorados que inspiró El fantasma de la Ópera.",
     "photos": ["paris/opera-garnier.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/yoytqWYr6kVSJYun7",
+    "hours": "10 am a 6pm (el ultimo tour es a las 4:30pm)",
+    "timeNeeded": "1.5 hrs",
+    "lat": 48.8719697,
+    "lng": 2.3316014
   },
   {
     "id": "galerias-lafayette",
@@ -185,23 +188,11 @@
     "name": "Galerías Lafayette",
     "comments": "Uno de los centros comerciales más famosos del mundo, con 7 plantas circulares y una enorme cúpula de colores. Su azotea ofrece una de las mejores vistas del centro de París gratis.",
     "photos": ["paris/galerias-lafayette.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "paseo-por-el-sena",
-    "cityId": "paris",
-    "name": "Paseo por el río Sena",
-    "comments": "Paseo romántico al atardecer desde Notre Dame hasta la Torre Eiffel. Cruza puentes como el Pont Neuf, el de las Almas y el de Alejandro III, y pasa por bouquinistes con libros antiguos y grabados.",
-    "photos": ["paris/paseo-por-el-sena.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/yBdnuEpwbunULS1E8",
+    "hours": "10am a 8:30pm. Domingo 11am a 8pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8736224,
+    "lng": 2.3321099
   },
   {
     "id": "catedral-notre-dame",
@@ -209,11 +200,11 @@
     "name": "Catedral de Notre Dame",
     "comments": "Una de las catedrales góticas más antiguas y bonitas del mundo, en la Île de la Cité. Fachada con dos torres gemelas de 69 metros y tres rosetones. Reabierta al público en diciembre de 2024 tras el incendio de 2019.",
     "photos": ["paris/catedral-notre-dame.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/462ohy9tFMtwBKvW7",
+    "hours": "8am a 7pm. Jueves hasta las 10pm",
+    "timeNeeded": "1 hr",
+    "lat": 48.8529682,
+    "lng": 2.3499021
   },
   {
     "id": "sainte-chapelle",
@@ -221,11 +212,11 @@
     "name": "Sainte Chapelle",
     "comments": "Iglesia gótica favorita de muchos visitantes, construida entre 1241 y 1248 para guardar reliquias sagradas. Su capilla superior tiene 15 enormes vitrales del siglo XIII de unos 15 metros de altura.",
     "photos": ["paris/sainte-chapelle.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/zBcWwrzpUCXq15ME9",
+    "hours": "9am a 7pm",
+    "timeNeeded": "45 min",
+    "lat": 48.855375,
+    "lng": 2.3449609
   },
   {
     "id": "conciergerie",
@@ -233,11 +224,11 @@
     "name": "La Conciergerie",
     "comments": "Antiguo palacio gótico convertido en una de las prisiones más duras de Francia. María Antonieta estuvo encarcelada aquí antes de morir en la guillotina en 1793. Se puede visitar una reconstrucción de su celda.",
     "photos": ["paris/conciergerie.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/QGEDPE6SHi9n1qRC8",
+    "hours": "9:30am a 6pm",
+    "timeNeeded": "45 min",
+    "lat": 48.8560114,
+    "lng": 2.3454953
   },
   {
     "id": "ayuntamiento-de-paris",
@@ -245,83 +236,35 @@
     "name": "Ayuntamiento de París",
     "comments": "Hôtel de Ville, sede de la municipalidad parisina desde 1357. Impresionante fachada neorrenacentista en la Place de l'Hôtel de Ville. Cerca se encuentra la Torre Saint-Jacques, único resto de su iglesia del siglo XVI.",
     "photos": ["paris/ayuntamiento-de-paris.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "les-halles",
-    "cityId": "paris",
-    "name": "Les Halles",
-    "comments": "Barrio emblemático que gira alrededor del Centro Pompidou. Destacan la Bolsa de Comercio, el Jardín Nelson Mandela, la Iglesia de San Eustaquio y la Rue Montorgueil con restaurantes típicos franceses.",
-    "photos": ["paris/les-halles.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "le-marais",
-    "cityId": "paris",
-    "name": "Le Marais",
-    "comments": "Barrio bohemio en el corazón de la ciudad con calles de adoquines, tiendas vintage, galerías de arte y la Plaza des Vosges, la más antigua de París, donde vivió Victor Hugo.",
-    "photos": ["paris/le-marais.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "canal-saint-martin",
-    "cityId": "paris",
-    "name": "Canal de Saint-Martin",
-    "comments": "Agradable paseo por la orilla del canal desde la Plaza de la Bastilla, presidida por la Columna de Julio. Canal repleto de pequeñas embarcaciones con parques y puentes panorámicos.",
-    "photos": ["paris/canal-saint-martin.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/Pr7JcDHkANrFN9Go8",
+    "hours": "Exterior siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.8564826,
+    "lng": 2.3524135
   },
   {
     "id": "iglesia-de-saint-sulpice",
     "cityId": "paris",
     "name": "Iglesia de Saint-Sulpice",
     "comments": "Segunda iglesia más grande de París, con fachada barroca y dos torres gemelas. Famosa por su gran órgano y las pinturas murales de Delacroix en la capilla.",
-    "photos": ["paris/barrio-latino.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "25 min",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/iglesia-de-saint-sulpice.png"],
+    "location": "https://maps.app.goo.gl/BsAsSF5PMoCEWYyW9",
+    "hours": "8am a 8pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8509814,
+    "lng": 2.3350051
   },
   {
-    "id": "barrio-latino",
-    "cityId": "paris",
-    "name": "Barrio Latino de París",
-    "comments": "Barrio animado al sur de la Île de la Cité, ideal para salir de noche. Incluye la plaza de Saint Michel, la Iglesia de Saint-Sulpice, la librería Shakespeare & Co y el Panteón.",
-    "photos": ["paris/barrio-latino.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "pantheon",
+    "id": "pantheon-paris",
     "cityId": "paris",
     "name": "Panteón de París",
     "comments": "Construido como iglesia dedicada a Santa Genoveva y secularizado en 1791 como panteón nacional. Alberga los restos de Voltaire, Victor Hugo, Marie Curie y Louis Braille, entre otros.",
-    "photos": ["paris/pantheon.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/pantheon-paris.png"],
+    "location": "https://maps.app.goo.gl/Hgrfxk1kB8bPUR3Q9",
+    "hours": "10am a 6:30pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8462218,
+    "lng": 2.3464138
   },
   {
     "id": "jardines-de-luxemburgo",
@@ -329,23 +272,11 @@
     "name": "Jardines de Luxemburgo",
     "comments": "Uno de los espacios verdes más bonitos de París, frente al Palacio de Luxemburgo. Popular entre los parisinos para picnic y conciertos gratuitos. Destaca la Fuente Médici del siglo XVII.",
     "photos": ["paris/jardines-de-luxemburgo.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "torre-montparnasse",
-    "cityId": "paris",
-    "name": "Torre Montparnasse",
-    "comments": "Edificio de 210 metros con mirador en la planta 56 y terraza en la 59. Ofrece vistas panorámicas de 360 grados de todo París con la Torre Eiffel como punto más relevante. Cerrada temporalmente por renovación.",
-    "photos": ["paris/torre-montparnasse.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/vGokSR3dxYXK1WnE7",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.8466144,
+    "lng": 2.3363309
   },
   {
     "id": "catacumbas",
@@ -353,35 +284,23 @@
     "name": "Catacumbas",
     "comments": "Osario subterráneo a 20 metros de profundidad con millones de restos humanos en túneles de más de 300 kilómetros. Solo 800 metros de galerías están abiertos al público, con paredes forradas de huesos.",
     "photos": ["paris/catacumbas.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/K1bDJidwAKvWQJ72A",
+    "hours": "9:45am a 8:30pm",
+    "timeNeeded": "2 hrs",
+    "lat": 48.8338325,
+    "lng": 2.3324222
   },
   {
-    "id": "montmartre",
+    "id": "moulin-rouge-paris",
     "cityId": "paris",
-    "name": "Barrio de Montmartre",
-    "comments": "Barrio sobre una colina de 130 metros que conserva aire bohemio de cuando vivieron Picasso y Van Gogh. Destacan la Place du Tertre con artistas callejeros y la Basílica del Sagrado Corazón con vistas al atardecer.",
-    "photos": ["paris/montmartre.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "pigalle",
-    "cityId": "paris",
-    "name": "Pigalle",
+    "name": "Moulin Rouge",
     "comments": "Barrio rojo a pies de Montmartre, a lo largo del boulevard de Clichy. Gran atractivo el famoso Moulin Rouge, donde actuaron Edith Piaf y Frank Sinatra y se representa el espectáculo Féerie.",
-    "photos": ["paris/pigalle.png"],
-    "location": "",
+    "photos": ["paris/moulin-rouge-paris.png"],
+    "location": "https://maps.app.goo.gl/KdiRY3VHoRjiyVy88",
     "hours": "",
     "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "lat": 48.8841232,
+    "lng": 2.3322519
   },
   {
     "id": "biblioteca-mazarino",
@@ -389,47 +308,23 @@
     "name": "Biblioteca Mazarino",
     "comments": "Biblioteca pública más antigua de Francia, en el muelle de Conti a orillas del Sena. Fundada por el Cardenal Mazarino, destaca su salón principal con estanterías de madera tallada y techos altos.",
     "photos": ["paris/biblioteca-mazarino.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/ftLjASwj3WdM9BEX8",
+    "hours": "10am a 6pm. Fines de semana cerrado",
+    "timeNeeded": "30 min",
+    "lat": 48.8574021,
+    "lng": 2.3370587
   },
   {
-    "id": "museo-orsay",
-    "cityId": "paris",
-    "name": "Museo de Orsay de París",
-    "comments": "Museo ubicado en una antigua estación de tren de 1900 con gran bóveda de cristal y acero. Colección de obras maestras de Manet, Van Gogh, Gauguin, Monet y Cézanne, conservando el antiguo reloj de la estación.",
-    "photos": ["paris/museo-orsay.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "invalidos",
+    "id": "invalidos-paris",
     "cityId": "paris",
     "name": "Los Inválidos",
     "comments": "Palacio Nacional barroco del siglo XVII que alberga la tumba de Napoleón Bonaparte. Incluye el Museo del Ejército y la Catedral de Saint Louis, con el sarcófago de Napoleón en la Iglesia del Domo.",
     "photos": ["paris/invalidos.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "otros-museos-paris",
-    "cityId": "paris",
-    "name": "Otros museos de París",
-    "comments": "Museo del muelle Branly con arte indígena de África, Asia, Oceanía y América; Museo Rodin con El Pensador y El Beso en sus jardines; y Museo de la Orangerie con Los Nenúfares de Monet.",
-    "photos": ["paris/otros-museos-paris.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/JfAkCd1DkoGSzq837",
+    "hours": "10am a 6pm",
+    "timeNeeded": "1 hr",
+    "lat": 48.856529,
+    "lng": 2.3127059
   },
   {
     "id": "cementerio-pere-lachaise",
@@ -437,23 +332,11 @@
     "name": "Cementerio de Pere Lachaise",
     "comments": "Cementerio de 44 hectáreas, uno de los más famosos del mundo. Aquí descansan Edith Piaf, Chopin, Oscar Wilde y Jim Morrison, entre otros personajes célebres.",
     "photos": ["paris/cementerio-pere-lachaise.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
-  },
-  {
-    "id": "la-defensa",
-    "cityId": "paris",
-    "name": "La Defensa",
-    "comments": "Distrito financiero y de negocios de la capital con numerosos rascacielos. Destaca el Gran Arco de la Defensa de 110 metros de altura, con terraza accesible en ascensor para vistas únicas de París.",
-    "photos": ["paris/la-defensa.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/7W4U7Z8JaDb8GKw49",
+    "hours": "8am a 2pm. Viernes a Domingo hasta las 6pm",
+    "timeNeeded": "30 min",
+    "lat": 48.861472,
+    "lng": 2.3934725
   },
   {
     "id": "disneyland-paris",
@@ -461,22 +344,22 @@
     "name": "Disneyland París",
     "comments": "Parque temático más famoso y visitado de Europa, a 32 km del centro. Compuesto por Disneyland Park con el Castillo de la Bella Durmiente y Walt Disney Studios Park dedicado al cine y la animación.",
     "photos": ["paris/disneyland-paris.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "location": "https://maps.app.goo.gl/9WKykcjb9ajhmmfs5",
+    "hours": "9:30am a 10:30pm",
+    "timeNeeded": "1 día",
+    "lat": 48.8673858,
+    "lng": 2.783593
   },
   {
     "id": "palacio-de-versalles",
     "cityId": "paris",
     "name": "Palacio de Versalles",
     "comments": "Palacio real de los reyes de Francia, situado a 20 km al sur de París. Fue el residencia de los reyes de Francia desde 1682 hasta 1789. Destaca su jardín, su galería de baile y su gran salón.",
-    "photos": ["paris/palacio-de-versalles.png"],
-    "location": "",
-    "hours": "",
-    "timeNeeded": "",
-    "lat": 0,
-    "lng": 0
+    "photos": ["paris/versalles.png"],
+    "location": "https://maps.app.goo.gl/YYSugjqUdswThtdw8",
+    "hours": "9am a 5:30pm",
+    "timeNeeded": "4 hrs",
+    "lat": 48.8048649,
+    "lng": 2.1203554
   }
 ]
