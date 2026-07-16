@@ -1,0 +1,86 @@
+[
+  {
+    "id": "beethoven-haus",
+    "cityId": "bonn",
+    "name": "Beethoven-Haus",
+    "comments": "La casa donde Ludwig van Beethoven nació el 17 de diciembre de 1770. Colección única con sus instrumentos (incluyendo audífonos del compositor sordo), cartas originales, partituras manuscritas y máscaras mortuorias. Una experiencia profundamente emotiva para amantes de la música.",
+    "photos": ["west-germany/beethoven-haus.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/8nYy4xStFH4UgjZ98",
+    "hours": "10am a 6pm",
+    "lat": 50.7369154,
+    "lng": 7.1012007
+  },
+  {
+    "id": "munsterplatz-bonn",
+    "cityId": "bonn",
+    "name": "Centro Histórico de Bonn y Münsterplatz",
+    "comments": "Bonn fue capital de la Alemania Occidental de 1949 a 1990. El Münsterplatz con la Basílica del Münster (románica, siglo XI) y la estatua de Beethoven es el centro histórico.",
+    "photos": ["west-germany/munsterplatz-bonn.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/aQKvhmmCmrnzovCc6",
+    "hours": "",
+    "lat": 50.7344907,
+    "lng": 7.0996314
+  },
+  {
+    "id": "marktplatz-bonn",
+    "cityId": "bonn",
+    "name": "MarktPlatz y antiguo ayuntamiento",
+    "comments": "Plaza central de Bonn con el Altes Rathaus (Ayuntamiento Antiguo), edificio rococó donde Kennedy y otros líderes mundiales dieron discursos históricos. Ambiente animado con mercado los sábados.",
+    "photos": ["west-germany/marktplatz-bonn.png"],
+    "timeNeeded": "20 min",
+    "location": "https://maps.app.goo.gl/ARoe9MwcxjPqDZq77",
+    "hours": "",
+    "lat": 50.7351323,
+    "lng": 7.102207
+  },
+  {
+    "id": "catedral-bonn",
+    "cityId": "bonn",
+    "name": "Catedral de Bonn",
+    "comments": "Basílica románica del siglo XI con torres gemelas que dominan el Münsterplatz. Una de las iglesias más antiguas de Alemania, con un claustro tranquilo y un interior sobrio pero imponente.",
+    "photos": ["west-germany/catedral-bonn.png"],
+    "timeNeeded": "30 min",
+    "location": "https://maps.app.goo.gl/AZtFXvpfaVbXopia9",
+    "hours": "Diario de 8am a 7pm",
+    "lat": 50.7335831,
+    "lng": 7.0994043
+  },
+  {
+    "id": "palacio-poppelsdorf",
+    "cityId": "bonn",
+    "name": "Palacio de Poppelsdorf (exterior) y universidad de Bonn",
+    "comments": "Palacio barroco del siglo XVIII con jardín botánico (Botanischer Garten), uno de los más antiguos de Alemania. El exterior del palacio y los invernaderos merecen una visita, aunque sea solo por fuera.",
+    "photos": ["west-germany/palacio-poppelsdorf.png"],
+    "timeNeeded": "40 min",
+    "location": "https://maps.app.goo.gl/YE6oa4Xx4EtGifYq8",
+    "hours": "10am a 6pm",
+    "lat": 50.7250571,
+    "lng": 7.0923512
+  },
+  {
+    "id": "haus-der-geschichte",
+    "cityId": "bonn",
+    "name": "Haus der Geschichte",
+    "comments": "Museo de historia contemporánea de Alemania (1945-presente) con exposiciones interactivas sobre la división, la reunificación y la democracia alemana. Entrada gratuita y muy bien curado.",
+    "photos": ["west-germany/haus-der-geschichte.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/ujPHh2XYMjfku8mq9",
+    "hours": "Thursday 9am a 6pm, Friday 9am a 6pm, Saturday 10am a 6pm, Sunday 10am a 6pm, Monday closed, Tuesday 9am a 6pm, Wednesday 9am a 6pm",
+    "lat": 50.7174263,
+    "lng": 7.1188402
+  },
+  {
+    "id": "palacio-drachenburg",
+    "cityId": "bonn",
+    "name": "Palacio Drachenburg",
+    "comments": "Castillo de cuento de hadas del siglo XIX en una colina sobre el Rin, a unos 20 min de Bonn. Combina estilos neogótico, renacentista y barroco. Se llega en funicular desde Königswinter.",
+    "photos": ["west-germany/palacio-drachenburg.png"],
+    "timeNeeded": "2 hrs",
+    "location": "https://maps.app.goo.gl/4AM6kVvC6T1Cvt6P9",
+    "hours": "11am a 6pm",
+    "lat": 50.668653,
+    "lng": 7.206374
+  }
+]
