@@ -216,6 +216,14 @@
     "lng": 7.7506482
   },
   {
+    "id": "alsacia",
+    "name": "Alsacia",
+    "country": "Francia",
+    "coverPhoto": "",
+    "lat": 48.0793,
+    "lng": 7.3585
+  },
+  {
     "id": "paris",
     "name": "París",
     "country": "Francia",
