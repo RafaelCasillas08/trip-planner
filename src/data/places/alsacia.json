@@ -1,0 +1,29 @@
+[
+  {
+    "id": "colmar",
+    "cityId": "alsacia",
+    "name": "Colmar",
+    "comments": "La ciudad más emblemática de Alsacia, famosa por sus canales, casas de entramado de madera, calles adoquinadas y edificios de colores. Destacan la Petite Venise, la Maison Pfister, la iglesia de San Martín y el casco histórico medieval. Es la base ideal para recorrer los pueblos alsacianos.",
+    "photos": ["alsacia/colmar"],
+    "lat": 48.079358,
+    "lng": 7.358512
+  },
+  {
+    "id": "eguisheim",
+    "cityId": "alsacia",
+    "name": "Eguisheim",
+    "comments": "Uno de los pueblos más bonitos de Francia, conocido por sus calles concéntricas, fachadas coloridas repletas de flores y ambiente medieval. Es considerado por muchos como el pueblo que mejor representa la esencia de Alsacia y una de las principales inspiraciones para la estética de La Bella y la Bestia.",
+    "photos": ["alsacia/eguisheim"],
+    "lat": 48.042083,
+    "lng": 7.307972
+  },
+  {
+    "id": "riquewihr",
+    "cityId": "alsacia",
+    "name": "Riquewihr",
+    "comments": "Un encantador pueblo medieval rodeado de viñedos que ha conservado casi intacta su arquitectura del siglo XVI. Sus murallas, torres, calles empedradas y coloridas casas de entramado de madera lo convierten en uno de los lugares más pintorescos de Alsacia.",
+    "photos": ["alsacia/riquewihr"],
+    "lat": 48.166998,
+    "lng": 7.297147
+  }
+]
