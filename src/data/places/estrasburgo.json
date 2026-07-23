@@ -4,161 +4,215 @@
     "cityId": "estrasburgo",
     "name": "Catedral de Notre-Dame de Estrasburgo",
     "comments": "Impresionante catedral gótica del siglo XII, símbolo de la ciudad. Destaca por su fachada tallada, su reloj astronómico y las vistas panorámicas desde su plataforma.",
-    "photos": ["estrasburgo/catedral-notre-dame"],
-    "lat": 48.5819,
-    "lng": 7.7505
+    "photos": ["estrasburgo/catedral-notre-dame.png"],
+    "location": "https://maps.app.goo.gl/4bFKxSuGJrvVn1pm9",
+    "hours": "Friday: 8:30 a 11:15 AM, 12:45 a 5:45 PM",
+    "timeNeeded": "30 min",
+    "lat": 48.5818799,
+    "lng": 7.7510348
   },
   {
     "id": "casa-kammerzell",
     "cityId": "estrasburgo",
     "name": "Casa Kammerzell",
     "comments": "Una de las casas medievales más famosas de Estrasburgo, situada frente a la catedral. Su fachada de madera tallada es uno de los ejemplos más bellos de arquitectura alsaciana.",
-    "photos": ["estrasburgo/casa-kammerzell"],
-    "lat": 48.5818,
-    "lng": 7.7502
+    "photos": ["estrasburgo/casa-kammerzell.png"],
+    "location": "https://maps.app.goo.gl/hicDrRv5RzRh2wAt9",
+    "hours": "siempre abierto, es un restaurante, pero la fachada la podemos ver",
+    "timeNeeded": "10 min",
+    "lat": 48.5819431,
+    "lng": 7.7498128
   },
   {
     "id": "plaza-gutenberg",
     "cityId": "estrasburgo",
     "name": "Plaza Gutenberg",
     "comments": "Plaza histórica dedicada a Johannes Gutenberg, inventor de la imprenta moderna, quien vivió en Estrasburgo durante varios años. Cuenta con una estatua central y edificios históricos.",
-    "photos": ["estrasburgo/plaza-gutenberg"],
-    "lat": 48.5814,
-    "lng": 7.7482
+    "photos": ["estrasburgo/plaza-gutenberg.png"],
+    "location": "https://maps.app.goo.gl/3Yax4XSsrLtD2VoNA",
+    "hours": "siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.5812331,
+    "lng": 7.7481688
   },
   {
     "id": "rue-du-maroquin",
     "cityId": "estrasburgo",
     "name": "Rue du Maroquin",
     "comments": "Una de las calles más encantadoras del centro histórico, con casas tradicionales, restaurantes alsacianos y winstubs donde probar comida local.",
-    "photos": ["estrasburgo/rue-du-maroquin"],
-    "lat": 48.5814,
-    "lng": 7.7501
+    "photos": ["estrasburgo/rue-du-maroquin.png"],
+    "location": "https://maps.app.goo.gl/Y9v9ZHvnkiLnjR8w5",
+    "hours": "siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.5806228,
+    "lng": 7.7508157
   },
   {
     "id": "quai-des-bateliers",
     "cityId": "estrasburgo",
     "name": "Quai des Bateliers",
     "comments": "Paseo junto al río Ill con vistas a casas de entramado de madera, puentes y el ambiente tradicional de la ciudad.",
-    "photos": ["estrasburgo/quai-des-bateliers"],
-    "lat": 48.5800,
-    "lng": 7.7540
+    "photos": ["estrasburgo/quai-des-bateliers.png"],
+    "location": "https://maps.app.goo.gl/nkKnZ75ecHNJLsYK9",
+    "hours": "siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.5807162,
+    "lng": 7.7537881
   },
   {
     "id": "place-broglie",
     "cityId": "estrasburgo",
     "name": "Place Broglie",
     "comments": "Elegante plaza histórica del centro de Estrasburgo, rodeada de edificios importantes como la Ópera y antiguos palacios urbanos.",
-    "photos": ["estrasburgo/place-broglie"],
-    "lat": 48.5850,
-    "lng": 7.7495
+    "photos": ["estrasburgo/place-broglie.png"],
+    "location": "https://maps.app.goo.gl/hMko5mpz3tvFx87P8",
+    "hours": "siempre abierto",
+    "timeNeeded": "20 min",
+    "lat": 48.585362,
+    "lng": 7.7505315
   },
   {
     "id": "saint-pierre-le-jeune",
     "cityId": "estrasburgo",
     "name": "Iglesia Saint-Pierre-le-Jeune",
     "comments": "Iglesia histórica con elementos románicos y góticos, famosa por su claustro y sus pinturas murales medievales.",
-    "photos": ["estrasburgo/saint-pierre-le-jeune"],
-    "lat": 48.5844,
-    "lng": 7.7477
+    "photos": ["estrasburgo/saint-pierre-le-jeune.png"],
+    "location": "https://maps.app.goo.gl/KYgGnvdrNMaFz3AaA",
+    "hours": "No tiene horario en google",
+    "timeNeeded": "30 min",
+    "lat": 48.5854066,
+    "lng": 7.7468137
   },
   {
     "id": "la-petite-france",
     "cityId": "estrasburgo",
     "name": "La Petite France",
     "comments": "El barrio más pintoresco de Estrasburgo, famoso por sus canales, casas con entramado de madera, puentes y calles medievales.",
-    "photos": ["estrasburgo/la-petite-france"],
-    "lat": 48.5803,
-    "lng": 7.7420
+    "photos": ["estrasburgo/la-petite-france.png"],
+    "location": "https://maps.app.goo.gl/7DyJW5jj3XbrFohSA",
+    "hours": "siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.5811142,
+    "lng": 7.7415109
   },
   {
     "id": "ponts-couverts",
     "cityId": "estrasburgo",
     "name": "Ponts Couverts",
     "comments": "Conjunto de puentes y torres defensivas medievales que formaban parte de las antiguas fortificaciones de la ciudad.",
-    "photos": ["estrasburgo/ponts-couverts"],
-    "lat": 48.5796,
-    "lng": 7.7398
+    "photos": ["estrasburgo/ponts-couverts.png"],
+    "location": "https://maps.app.goo.gl/8rkuVgqzRUYPfsYZ7",
+    "hours": "9:00 am a 7pm",
+    "timeNeeded": "30 min",
+    "lat": 48.5801766,
+    "lng": 7.7392694
   },
   {
     "id": "barrage-vauban",
     "cityId": "estrasburgo",
     "name": "Barrage Vauban",
     "comments": "Antigua presa defensiva diseñada por Vauban en el siglo XVII. Su terraza ofrece una de las mejores vistas de La Petite France.",
-    "photos": ["estrasburgo/barrage-vauban"],
-    "lat": 48.5790,
-    "lng": 7.7385
+    "photos": ["estrasburgo/barrage-vauban.png"],
+    "location": "https://maps.app.goo.gl/nLqkKYtwVyAAt7RNA",
+    "hours": "7:15 am a 9pm",
+    "timeNeeded": "30 min",
+    "lat": 48.5794668,
+    "lng": 7.736701
   },
   {
     "id": "parlamento-europeo",
     "cityId": "estrasburgo",
     "name": "Parlamento Europeo",
     "comments": "Edificio moderno donde se celebran sesiones del Parlamento Europeo. Representa el papel de Estrasburgo como capital europea.",
-    "photos": ["estrasburgo/parlamento-europeo"],
-    "lat": 48.5984,
-    "lng": 7.7689
+    "photos": ["estrasburgo/parlamento-europeo.png"],
+    "location": "https://maps.app.goo.gl/4P6sqJbyF7Hz3UG36",
+    "hours": "9am a 5pm",
+    "timeNeeded": "30 min",
+    "lat": 48.5976823,
+    "lng": 7.7687288
   },
   {
     "id": "parc-de-lorangerie",
     "cityId": "estrasburgo",
     "name": "Parc de l'Orangerie",
     "comments": "El parque más antiguo y famoso de Estrasburgo, con jardines, lago, zonas de paseo y presencia de cigüeñas, símbolo de Alsacia.",
-    "photos": ["estrasburgo/parc-de-lorangerie"],
-    "lat": 48.5955,
-    "lng": 7.7774
+    "photos": ["estrasburgo/parc-de-lorangerie.png"],
+    "location": "https://maps.app.goo.gl/aYdqgTePmwRFg3VN6",
+    "hours": "7am a 8pm",
+    "timeNeeded": "30 min",
+    "lat": 48.5925964,
+    "lng": 7.7748085
   },
   {
     "id": "place-de-la-republique",
     "cityId": "estrasburgo",
     "name": "Place de la République",
     "comments": "Centro del barrio alemán Neustadt, con jardines y edificios monumentales construidos durante el periodo imperial alemán.",
-    "photos": ["estrasburgo/place-de-la-republique"],
-    "lat": 48.5868,
-    "lng": 7.7548
+    "photos": ["estrasburgo/place-de-la-republique.png"],
+    "location": "https://maps.app.goo.gl/eskabSyfeZbgPsLv8",
+    "hours": "No dice horario en google",
+    "timeNeeded": "15 min",
+    "lat": 48.5872466,
+    "lng": 7.7539649
   },
   {
     "id": "palais-du-rhin",
     "cityId": "estrasburgo",
     "name": "Palais du Rhin",
     "comments": "Antiguo palacio imperial alemán construido durante el periodo de anexión alemana. Es uno de los edificios más representativos del Neustadt.",
-    "photos": ["estrasburgo/palais-du-rhin"],
-    "lat": 48.5869,
-    "lng": 7.7547
+    "photos": ["estrasburgo/palais-du-rhin.png"],
+    "location": "https://maps.app.goo.gl/Xw8c4vAm3uiyMiSG6",
+    "hours": "No dice horario en google",
+    "timeNeeded": "10 min",
+    "lat": 48.5876811,
+    "lng": 7.7525912
   },
   {
     "id": "biblioteca-nacional-universitaria",
     "cityId": "estrasburgo",
     "name": "Biblioteca Nacional y Universitaria de Estrasburgo",
     "comments": "Edificio monumental de estilo neorrenacentista construido durante el periodo alemán y una de las bibliotecas universitarias más importantes de Francia.",
-    "photos": ["estrasburgo/biblioteca-nacional-universitaria"],
-    "lat": 48.5871,
-    "lng": 7.7558
+    "photos": ["estrasburgo/biblioteca-nacional-universitaria.png"],
+    "location": "https://maps.app.goo.gl/UyefhE8ZeA8SRkPMA",
+    "hours": "10am a 7pm",
+    "timeNeeded": "30 min",
+    "lat": 48.5871097,
+    "lng": 7.755869
   },
   {
     "id": "universidad-estrasburgo",
     "cityId": "estrasburgo",
     "name": "Universidad de Estrasburgo",
     "comments": "Complejo universitario creado durante el periodo alemán como símbolo del desarrollo científico y cultural de la ciudad.",
-    "photos": ["estrasburgo/universidad-estrasburgo"],
-    "lat": 48.5844,
-    "lng": 7.7665
+    "photos": ["estrasburgo/universidad-estrasburgo.png"],
+    "location": "https://maps.app.goo.gl/5MyP1BhiR6WUu9uWA",
+    "hours": "9am a 5pm",
+    "timeNeeded": "15 min",
+    "lat": 48.579219,
+    "lng": 7.7663737
   },
   {
     "id": "iglesia-san-pablo",
     "cityId": "estrasburgo",
     "name": "Iglesia de San Pablo",
     "comments": "Iglesia protestante de estilo neogótico construida durante el periodo alemán, reconocible por sus dos altas torres junto al río Ill.",
-    "photos": ["estrasburgo/iglesia-san-pablo"],
-    "lat": 48.5859,
-    "lng": 7.7617
+    "photos": ["estrasburgo/iglesia-san-pablo.png"],
+    "location": "https://maps.app.goo.gl/bPHYGVPjeNJ7N6m18",
+    "hours": "solo abre los mierccoles y domingos",
+    "timeNeeded": "10 min",
+    "lat": 48.5860517,
+    "lng": 7.7596657
   },
   {
     "id": "avenue-de-la-liberte",
     "cityId": "estrasburgo",
     "name": "Avenue de la Liberté",
     "comments": "Gran avenida del barrio alemán Neustadt, diseñada para mostrar la grandeza del Imperio alemán con edificios monumentales y amplios espacios urbanos.",
-    "photos": ["estrasburgo/avenue-de-la-liberte"],
-    "lat": 48.5878,
-    "lng": 7.7585
+    "photos": ["estrasburgo/avenue-de-la-liberte.png"],
+    "location": "https://maps.app.goo.gl/FH8zc2f2EbBSyY568",
+    "hours": "siempre abierto",
+    "timeNeeded": "15 min",
+    "lat": 48.5861725,
+    "lng": 7.7577829
   }
 ]
