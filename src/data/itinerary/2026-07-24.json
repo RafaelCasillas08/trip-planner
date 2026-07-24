@@ -1,0 +1,115 @@
+[
+  {
+    "id": "act-20260724-1",
+    "placeId": "catedral-notre-dame-estrasburgo",
+    "schedule": "10:00am a 10:30am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-2",
+    "placeId": "casa-kammerzell",
+    "schedule": "10:30am a 10:40am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-3",
+    "placeId": "rue-du-maroquin",
+    "schedule": "10:40am a 10:50am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-4",
+    "placeId": "plaza-gutenberg",
+    "schedule": "10:50am a 11:05am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-5",
+    "placeId": "quai-des-bateliers",
+    "schedule": "11:10am a 11:25am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-6",
+    "placeId": "place-broglie",
+    "schedule": "11:30am a 11:45am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-7",
+    "placeId": "saint-pierre-le-jeune",
+    "schedule": "11:50am a 12:10pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-8",
+    "placeId": "la-petite-france",
+    "schedule": "12:20pm a 12:50pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-9",
+    "placeId": "ponts-couverts",
+    "schedule": "12:50pm a 1:05pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-10",
+    "placeId": "barrage-vauban",
+    "schedule": "1:05pm a 1:25pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2:00pm a 3:00pm",
+    "comments": "Comer en La Petite France o sus alrededores."
+  },
+  {
+    "id": "act-20260724-11",
+    "placeId": "place-de-la-republique",
+    "schedule": "3:10pm a 3:25pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-12",
+    "placeId": "palais-du-rhin",
+    "schedule": "3:25pm a 3:35pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-13",
+    "placeId": "biblioteca-nacional-universitaria",
+    "schedule": "3:35pm a 3:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-14",
+    "placeId": "avenue-de-la-liberte",
+    "schedule": "3:45pm a 3:55pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-15",
+    "placeId": "iglesia-san-pablo",
+    "schedule": "4:00pm a 4:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-16",
+    "placeId": "universidad-estrasburgo",
+    "schedule": "4:15pm a 4:25pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-17",
+    "placeId": "parc-de-lorangerie",
+    "schedule": "4:30pm a 4:50pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260724-18",
+    "placeId": "parlamento-europeo",
+    "schedule": "4:50pm a 5:00pm",
+    "comments": ""
+  }
+]
