@@ -195,7 +195,7 @@
     "lng": 2.3321099
   },
   {
-    "id": "catedral-notre-dame",
+    "id": "catedral-notre-dame-paris",
     "cityId": "paris",
     "name": "Catedral de Notre Dame",
     "comments": "Una de las catedrales góticas más antiguas y bonitas del mundo, en la Île de la Cité. Fachada con dos torres gemelas de 69 metros y tres rosetones. Reabierta al público en diciembre de 2024 tras el incendio de 2019.",
@@ -361,5 +361,41 @@
     "timeNeeded": "4 hrs",
     "lat": 48.8048649,
     "lng": 2.1203554
+  },
+  {
+    "id": "hotel-de-la-marine",
+    "cityId": "paris",
+    "name": "Hôtel de la Marine",
+    "comments": "Palacio de estilo neoclásico que alberga la marina francesa. Destaca su fachada con columnas corintias y su jardín con estatuas de animales marinos.",
+    "photos": ["paris/hotel-de-la-marine.png"],
+    "location": "https://maps.app.goo.gl/Q6wHw7dV9Cu5zYt16",
+    "hours": "10:30am a 6pm y los viernes cierra a las 9:30pm",
+    "timeNeeded": "1:30 hrs",
+    "lat": 48.8668547,
+    "lng": 2.3228282
+  },
+  {
+    "id": "museo-d-orsay",
+    "cityId": "paris",
+    "name": "Museo d'Orsay",
+    "comments": "Museo de arte que alberga obras de arte del siglo XIX y principios del siglo XX, como las pinturas de Gustave Courbet, Edgar Degas y Claude Monet.",
+    "photos": ["paris/museo-d-orsay.png"],
+    "location": "https://maps.app.goo.gl/fFccGYW24b8WxPHH9",
+    "hours": "9:30am a 6pm",
+    "timeNeeded": "1:30 hrs",
+    "lat": 48.8599701,
+    "lng": 2.3264253
+  },
+  {
+    "id": "musee-de-lorangerie",
+    "cityId": "paris",
+    "name": "Musée de l'Orangerie",
+    "comments": "Museo de arte que alberga obras de arte del siglo XIX y principios del siglo XX, como las pinturas de Gustave Courbet, Edgar Degas y Claude Monet.",
+    "photos": ["paris/musee-de-lorangerie.png"],
+    "location": "https://maps.app.goo.gl/qG45VnqMjWiz7sYi7",
+    "hours": "9:30am a 6pm",
+    "timeNeeded": "30 min",
+    "lat": 48.8638521,
+    "lng": 2.3226378
   }
 ]
