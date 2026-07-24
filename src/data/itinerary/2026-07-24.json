@@ -1,68 +1,68 @@
 [
   {
     "id": "act-20260724-1",
-    "placeId": "catedral-notre-dame-estrasburgo",
+    "placeId": "la-petite-france",
     "schedule": "10:00am a 10:30am",
     "comments": ""
   },
   {
     "id": "act-20260724-2",
-    "placeId": "casa-kammerzell",
-    "schedule": "10:30am a 10:40am",
+    "placeId": "ponts-couverts",
+    "schedule": "10:30am a 10:45am",
     "comments": ""
   },
   {
     "id": "act-20260724-3",
-    "placeId": "rue-du-maroquin",
-    "schedule": "10:40am a 10:50am",
+    "placeId": "barrage-vauban",
+    "schedule": "10:45am a 11:05am",
     "comments": ""
   },
   {
     "id": "act-20260724-4",
-    "placeId": "plaza-gutenberg",
-    "schedule": "10:50am a 11:05am",
+    "placeId": "catedral-notre-dame-estrasburgo",
+    "schedule": "11:20am a 11:50am",
     "comments": ""
   },
   {
     "id": "act-20260724-5",
-    "placeId": "quai-des-bateliers",
-    "schedule": "11:10am a 11:25am",
+    "placeId": "casa-kammerzell",
+    "schedule": "11:50am a 12:00pm",
     "comments": ""
   },
   {
     "id": "act-20260724-6",
-    "placeId": "place-broglie",
-    "schedule": "11:30am a 11:45am",
+    "placeId": "rue-du-maroquin",
+    "schedule": "12:00pm a 12:10pm",
     "comments": ""
   },
   {
     "id": "act-20260724-7",
-    "placeId": "saint-pierre-le-jeune",
-    "schedule": "11:50am a 12:10pm",
+    "placeId": "plaza-gutenberg",
+    "schedule": "12:10pm a 12:25pm",
     "comments": ""
   },
   {
     "id": "act-20260724-8",
-    "placeId": "la-petite-france",
-    "schedule": "12:20pm a 12:50pm",
+    "placeId": "quai-des-bateliers",
+    "schedule": "12:30pm a 12:45pm",
     "comments": ""
   },
   {
     "id": "act-20260724-9",
-    "placeId": "ponts-couverts",
+    "placeId": "place-broglie",
     "schedule": "12:50pm a 1:05pm",
     "comments": ""
   },
   {
     "id": "act-20260724-10",
-    "placeId": "barrage-vauban",
-    "schedule": "1:05pm a 1:25pm",
+    "placeId": "saint-pierre-le-jeune",
+    "schedule": "1:10pm a 1:30pm",
     "comments": ""
   },
   {
     "type": "lunch",
     "schedule": "2:00pm a 3:00pm",
-    "comments": "Comer en La Petite France o sus alrededores."
+    "comments": "Comer en el centro histórico."
   },
   {
     "id": "act-20260724-11",
@@ -85,31 +85,31 @@
   {
     "id": "act-20260724-14",
     "placeId": "avenue-de-la-liberte",
-    "schedule": "3:45pm a 3:55pm",
+    "schedule": "3:45pm a 4:00pm",
     "comments": ""
   },
   {
     "id": "act-20260724-15",
     "placeId": "iglesia-san-pablo",
-    "schedule": "4:00pm a 4:15pm",
+    "schedule": "4:05pm a 4:20pm",
     "comments": ""
   },
   {
     "id": "act-20260724-16",
-    "placeId": "universidad-estrasburgo",
-    "schedule": "4:15pm a 4:25pm",
-    "comments": ""
-  },
-  {
-    "id": "act-20260724-17",
     "placeId": "parc-de-lorangerie",
     "schedule": "4:30pm a 4:50pm",
     "comments": ""
   },
   {
-    "id": "act-20260724-18",
+    "id": "act-20260724-17",
     "placeId": "parlamento-europeo",
-    "schedule": "4:50pm a 5:00pm",
+    "schedule": "4:55pm a 5:15pm",
     "comments": ""
+  },
+  {
+    "id": "act-20260724-18",
+    "placeId": "universidad-estrasburgo",
+    "schedule": "5:20pm a 5:35pm",
+    "comments": "Opcional si todavía hay tiempo."
   }
 ]
