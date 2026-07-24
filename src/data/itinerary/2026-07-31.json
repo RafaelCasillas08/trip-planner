@@ -1,0 +1,72 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "Conocer París"
+  },
+  {
+    "id": "act-20260801-7",
+    "placeId": "invalidos-paris",
+    "schedule": "10am a 11:00am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-7",
+    "placeId": "puente-alejandro-iii",
+    "schedule": "11:00am a 11:30am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-1",
+    "placeId": "hotel-de-la-marine",
+    "schedule": "11:30am a 1:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-7",
+    "placeId": "plaza-de-la-concordia",
+    "schedule": "1:00pm a 1:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-7",
+    "placeId": "jardines-de-las-tullerias",
+    "schedule": "1:30pm a 2:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-2",
+    "placeId": "musee-de-lorangerie",
+    "schedule": "2:00pm a 2:30pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-2",
+    "placeId": "museo-d-orsay",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-7",
+    "placeId": "biblioteca-mazarino",
+    "schedule": "4:45am a 5:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-7",
+    "placeId": "louvre",
+    "schedule": "5:30pm a 9:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-7",
+    "placeId": "moulin-rouge-paris",
+    "schedule": "9:30pm a 9:45pm",
+    "comments": ""
+  }
+]

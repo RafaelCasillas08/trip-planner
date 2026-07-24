@@ -1,0 +1,24 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "estrasburgo",
+    "toCityId": "paris",
+    "transportMode": "",
+    "duration": "",
+    "stationTime": "",
+    "departureTime": "",
+    "arrivalTime": "",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-7",
+    "placeId": "galerias-lafayette",
+    "schedule": "4:40pm a 5:00pm",
+    "comments": ""
+  }
+]

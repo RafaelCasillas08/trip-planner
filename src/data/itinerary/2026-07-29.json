@@ -1,0 +1,60 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-3",
+    "placeId": "catacumbas",
+    "schedule": "9:45am a 11:45am",
+    "comments": "2 hrs. Abren 9:45, cierran 20:30. Ir temprano. Comprar entradas 7 días antes (franja 9:45–11:45). https://www.catacombes.paris.fr/en/visit/individual-rates"
+  },
+  {
+    "id": "act-20260729-2",
+    "placeId": "jardines-de-luxemburgo",
+    "schedule": "12pm a 12:20am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260729-1",
+    "placeId": "iglesia-de-saint-sulpice",
+    "schedule": "12:30pm a 1:00pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-2",
+    "placeId": "palacio-real-paris",
+    "schedule": "2:15pm a 2:30pm",
+    "comments": "20 min"
+  },
+  {
+    "id": "act-20260731-3",
+    "placeId": "jardines-del-palacio-real-paris",
+    "schedule": "2:30pm a 2:45pm",
+    "comments": "20 min"
+  },
+  {
+    "id": "act-20260731-4",
+    "placeId": "galeria-vivienne",
+    "schedule": "2:45pm a 3:00pm",
+    "comments": "Ver si comemos por ahí; es de tiendas"
+  },
+  {
+    "id": "act-20260731-5",
+    "placeId": "opera-garnier",
+    "schedule": "3:30pm a 5:00pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260731-6",
+    "placeId": "iglesia-de-la-madeleine",
+    "schedule": "5:15pm a 5:45pm",
+    "comments": "Cierran a las 7pm"
+  }
+]
